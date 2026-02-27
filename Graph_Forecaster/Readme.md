@@ -91,6 +91,7 @@ This cycle repeats recursively. After 10-20 iterations, the system operates with
 ---
 
 ## **Retrospective Analysis: The Inevitability of the Laser**
+(Very Simplified Example)
 
 To demonstrate Graph Forecaster's methodology, here is how it would reconstruct the laser's emergence by analyzing the historical graph:
 
