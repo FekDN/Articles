@@ -378,3 +378,5 @@ The effectiveness of the KIL system is measured not through formal grades but th
 
 * **Universality of the standard:** Creation of a unified knowledge metric that is intelligible at any point in the world and in any corporate environment, thereby eliminating barriers to labor migration and international collaboration.
 * **Recruitment transparency index:** Accuracy of matching between the actual needs of production and the confirmed cognitive profile of the candidate on the ID card.
+
+  2025-2026 Dmitry Feklin FeklinDN@gmail.com
